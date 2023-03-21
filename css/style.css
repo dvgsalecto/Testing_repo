@@ -1,0 +1,245 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 30px;
+    background-color: rgb(39, 69, 83);
+}
+
+.img_1 {
+    position: relative;
+    top: 5px;
+}
+
+.main_nav {
+    height: 120px;
+    width: 100%;
+    display: flex;
+}
+
+.nav1 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav_text {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img_2 {
+    text-align: center;
+}
+
+.searchbox {
+    height: 30px;
+}
+
+.img_bg1 {
+    background-image: url(/images/Background.png);
+    height: 650px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    background-color: white;
+    height: 30px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bolder;
+}
+
+.img_text1 {
+
+    padding-top: 400px;
+    padding-left: 300px;
+}
+.img_desc
+{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: white;
+    font-weight: bold;
+}
+.img_t1
+{
+    background-image: url(/images/Image\ container\ \(1\).jpg); 
+    background-repeat: no-repeat;
+}
+.img_t2
+{
+    background-image: url(/images/2.png);
+}
+.img_t3
+{
+    background-image: url(/images/3.png);
+}
+.img_t4
+{
+    background-image: url(/images/4.png);
+}
+.img_tx{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    align-items: end;
+}
+.img_t5
+{
+    background-image: url(/images/Image\ container\ \(3\).png);
+    margin-top: 20px;
+}.img_t6
+{
+    background-image: url(/images/Image\ container.png);
+    margin-top: 20px;
+}.img_t7
+{
+    background-image: url(/images/Image\ container\ \(1\).png);
+    margin-top: 20px;
+}.img_t8
+{
+    background-image: url(/images/Image\ container\ \(2\).png);
+    margin-top: 20px;
+}
+.sec_buy
+{
+    height: 660px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.items_buy
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+/* .item_1
+{ 
+    background-image: url(/images/boh4v2black_1_1-removebg-preview\ 14.png);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+} */
+/* .item_2
+{
+    background-image: url(/images/boh4v2black_1_1-removebg-preview\ 14\ \(1\).png);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.item_3
+{
+    background-image: url(/images/boh4v2black_1_1-removebg-preview\ 14\ \(2\).png);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.item_4
+{
+    background-image: url(/images/boh4v2black_1_1-removebg-preview\ 14\ \(3\).png);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.item_5
+{
+    background-image: url(/images/boh4v2black_1_1-removebg-preview\ 14\ \(4\).png);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+} */
+.shopbtn {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CAF50;
+  }
+  .banners
+  {
+    display:flex;
+    justify-content: center;
+    margin-top: 125px;
+    gap: 50px;
+    height: 100px;
+  }
+  .bg2
+  {
+    background-image: url(/images/Background\ \(1\).png);
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+  .pimgs
+{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    gap: 20px;
+    margin-top: 20px;
+}
+.gapi
+{
+    margin-top: 100px;
+}
+.shopbtn {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #274553;
+  }
+.bbuy
+  {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+  }
+.footer
+{
+    background-image: url(/images/hest-7d055866\ 1\ \(1\).png);
+    height: 680px;
+}
